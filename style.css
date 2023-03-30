@@ -1,0 +1,95 @@
+.body{
+    font-family:'Karla';
+}
+.num1{
+    font-size: 40px;
+    padding: 2%;
+    font-weight: 700;
+    color: hsl(179, 62%, 43%);
+}
+
+.num2{
+    font-size: 35px;
+    padding: 0 2% 1%;
+    font-weight: 700;
+    font-family:'Karla';
+    color: hsl(71, 73%, 54%);
+}
+
+.num3{
+    font-size: 35px;
+    padding: 0 2% 1%;
+    font-weight: 700;
+    font-family:'Karla';
+    color: hsl(218, 22%, 67%)
+}
+
+.shift{
+    padding-bottom: 80px;
+    align-items: left;
+    width: 50%;
+    /* padding-left: 2%; */
+    background-color: hsl(179, 62%, 43%);
+}
+
+.shift2{background-size: 1000px;
+    align-items: right;
+    width: 50%;
+    padding-left: 2%;
+    background-color: hsl(179, 55%, 55%);
+}
+
+.row{
+    
+    margin-bottom: 60px;
+    color: white;
+    display: flex;
+    padding:2%;
+}
+
+.button{
+    display: inline-block ;
+    background: transparent;
+}
+
+.btn{
+    font-size: 20px;
+    color: white;
+    background-color: hsl(71, 73%, 54%);
+    margin-top: 20px;
+    padding: 2% 16%;
+}
+
+.gap{
+    margin: 2% 0;
+    font-weight: 700;
+    font-size: 30px;
+    font-family: 'Karla';
+}
+
+.thisone{
+    display: inline-block;
+}
+
+.another{
+    font-size: 40px;
+    margin-right: 10px;
+}
+
+.moregap{
+    margin:10px;
+}
+
+.onemore{
+    color: hsl(204, 43%, 93%);
+}
+
+.nowthis{
+    font-size: 20px;
+    color: hsl(204, 43%, 93%);
+}
+
+.hello{
+    width: 300px;
+    font-size: 20px;
+}
